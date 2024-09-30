@@ -37,3 +37,6 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
 - `exports`: Contains exported versions of the report.
     - `t20_wc_analysis_dash_board`
     - `t20_wc_power_hitters`
+
+## Preview
+![T20 WC Analysis Screenshot](exports/t20_wc_power_hitters)
