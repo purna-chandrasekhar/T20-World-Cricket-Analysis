@@ -22,4 +22,18 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
 - Provide recommendations based on data insights for player selection in future tournaments.
 
 ## Files:
-- `data/t20_wc_analysis_csv_Files`: Contains the source data used for the data analysis & reporting.
+- `reports\t20_wc_analysis_dash_board`: The Power BI Desktop file.
+- `data/t20_wc_analysis_json_files`: Contains the source data json files used for the report.
+  - `t20_wc_batting_summary`
+  - `t20_wc_bowling_summary`
+  - `t20_wc_match_results`
+  - `t20_wc_player_info`
+- `data/t20_wc_analysis_csv_files`: Contains the raw and cleaned CSV files used for analysis.
+  - `dim_match_summary`
+  - `dim_players`
+  - `fact_bating_summary`
+  - `fact_bowling_summary`
+- `scripts\t20_wc_data_preprocessing`: Python scripts used for data cleaning and preparation.
+- `exports`: Contains exported versions of the report.
+    - `t20_wc_analysis_dash_board`
+    - `t20_wc_power_hitters`
