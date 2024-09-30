@@ -23,7 +23,7 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
 
 ## Files:
 - `reports\t20_wc_analysis_dash_board.pbix`: The Power BI Desktop file.
-- `data/t20_wc_analysis_json_files`: Contains the raw data json files used for data pre-processing.
+- `data/t20_wc_analysis_json_files`: Contains the raw data json files used for data pre-processing and preparation.
   - `t20_wc_batting_summary.json`
   - `t20_wc_bowling_summary.json`
   - `t20_wc_match_results.json`
