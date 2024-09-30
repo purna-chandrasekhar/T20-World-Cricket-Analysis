@@ -39,4 +39,4 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
     - `t20_wc_power_hitters`
 
 ## Preview
-![T20 WC Analysis Screenshot](exports/t20_wc_power_hitters)
+![T20 WC Analysis Screenshot](exports/t20_wc_power_hitters.png)
