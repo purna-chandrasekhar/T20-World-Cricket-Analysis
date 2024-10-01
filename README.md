@@ -47,7 +47,7 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
 - Python (with pandas installed)
 - Power BI Desktop
 
-### Steps:
+### Steps to Use:
 1. Clone this repository:
   ```bash
   git clone https://github.com/purna-chandrasekhar/T20-World-Cricket-Analysis.git
@@ -57,7 +57,7 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
   pip install pandas
   ```
 3. Load the Data;
-  - If using Python, navigate to the `scripts/` folder and run the provided Python scripts to clean and manipulate the raw data.
+  -- If using Python, navigate to the `scripts/` folder and run the provided Python scripts to clean and manipulate the raw data:
   ```bash
   python scripts/clean_data.py
   ```
@@ -66,4 +66,4 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
   - Open `reports\t20_wc_analysis_dash_board.pbix` in Power BI Desktop.
   - If the data doesn't automatically load, manually load it from `data/t20_wc_analysis_csv_files` into Power BI
 5. Explore the Dashboard:
-- Use the dashboard to analyze the players' performance metrics and identify the best 11 players of the T20 World Cup 2022.
+-- Use the dashboard to analyze the players' performance metrics and identify the best 11 players of the T20 World Cup 2022.
