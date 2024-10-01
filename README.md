@@ -44,10 +44,11 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
 ## How to use
 
 ### Prerequisites
-- Jupyter Notebook or application for Python (pandas)
+- Python (with pandas installed)
 - Power BI Desktop
 
 ### Steps:
 1. Clone this repository:
   ```bash
   git clone https://github.com/purna-chandrasekhar/T20-World-Cricket-Analysis.git
+```
