@@ -61,8 +61,7 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
   ```bash
   python scripts/clean_data.py
   ```
-  - Ensure that data in the `data/` folder is properly cleaned and ready for Power BI.  
-**4. Open Power BI Dashboard:**
+  - Ensure that data in the `data/` folder is properly cleaned and ready for Power BI.  **4. Open Power BI Dashboard:**
   - Open `reports\t20_wc_analysis_dash_board.pbix` in Power BI Desktop.
   - If the data doesn't automatically load, manually load it from `data/t20_wc_analysis_csv_files` into Power BI.  
 **5. Explore the Dashboard:**
