@@ -51,4 +51,5 @@ This project focuses on analyzing the T20 World Cup 2022 data to select the best
 1. Clone this repository:
   ```bash
   git clone https://github.com/purna-chandrasekhar/T20-World-Cricket-Analysis.git
-```
+  ```
+2. 
